@@ -8,6 +8,12 @@ body {
   background-color: $primary-background-color;
 }
 
+h1 {
+  font: 100% $font-title;
+  color: $secondary-color;
+  background-color: $secondary-background-color;
+}
+
 nav {
   ul {
     margin: 0;
