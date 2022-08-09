@@ -1,0 +1,6 @@
+Configuration
+Dans cet article nous n’allons pas nous attarder sur l’installation de SCSS dans votre projet. Je pars du principe que vous avez un projet Vue, React ou encore Angular qui embarque déjà un transpilateur SCSS.
+
+On peut utiliser Ruby + en ligne de commande : sass --watch input.scss output.css puis sass -v pour s'assurer de la version du sass.
+
+La principale règle à mettre en place dans votre style, c’est la séparation du style en plusieurs fichiers. Pour vous donner quelques exemples, on peut envisager un fichier propre aux variables, un propre aux pages, un fichier propre aux composants. Au final, tous ces fichiers sont importés dans un index.scss qui représente le fichier d'entrée de votre style.
