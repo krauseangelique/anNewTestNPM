@@ -1,0 +1,23 @@
+{
+  "name": "annewtestnpm",
+  "version": "1.0.0",
+  "description": "a first use of npm package",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krauseangelique/anNewTestNPM.git"
+  },
+  "keywords": [
+    "git",
+    "npm"
+  ],
+  "author": "Angelique KRAUSE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krauseangelique/anNewTestNPM/issues"
+  },
+  "homepage": "https://github.com/krauseangelique/anNewTestNPM#readme"
+}
