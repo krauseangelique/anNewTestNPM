@@ -4,20 +4,22 @@ body {
   background-color: #777;
 }
 
+h1 {
+  font: 100% Georgia, serif;
+  color: #555;
+  background-color: #55ff6c;
+}
+
 nav ul {
   margin: 0;
   padding: 0;
   list-style: none;
 }
-
-SCSS SYNTAX nav li {
+nav li {
   display: inline-block;
 }
-
-SCSS SYNTAX nav a {
+nav a {
   display: block;
   padding: 6px 12px;
   text-decoration: none;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=index.css.map */
